@@ -1,0 +1,3 @@
+Curso da Dio. treinando e testanto o repositório
+link para downloard do Git: https://git-scm.com/downloads
+o Git Bash é um repositório extendido para otimizar o uso do Git.
